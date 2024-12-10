@@ -1,7 +1,3 @@
-Here’s a simple and beginner-friendly `README.md` file for your project:
-
----
-
 # Chat Bubble Notification System
 
 This project demonstrates a **Chat Bubble Notification System** that dynamically displays up to 3 chat bubbles on the screen. Each bubble represents a unique chat room and includes animations and a timeout for automatic removal. 
@@ -104,7 +100,7 @@ You can customize the following:
 
 ## License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the [MIT License.](https://opensource.org/license/mit)
 
 ---
 
